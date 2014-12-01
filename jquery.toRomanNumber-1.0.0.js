@@ -1,5 +1,5 @@
 /*!
- * jquery.toRomanNumber. A number conversion script to roman number.
+ * jquery.toRomanNumber. A number conversion script to roman number as string.
  *
  * Copyright (c) 2014 Barış Güler
  * http://hwclass.github.io
