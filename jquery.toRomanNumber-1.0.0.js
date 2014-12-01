@@ -10,7 +10,7 @@
  * http://docs.jquery.com/Plugins/Authoring
  * jQuery authoring guidelines
  *
- * Launch  : November 2014
+ * Launch  : December 2014
  * Version : 1.0.0
  * Released: December 2nd, 2014
  * jQuery Availability : >= 1.7.0
