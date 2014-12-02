@@ -38,6 +38,8 @@
           }
           return stringFormatOfTheGivenNumberInRoman;
         }
+      } else {
+        console.log('Please be sure you entered a valid digit.');
       }
    };
  })(jQuery);
