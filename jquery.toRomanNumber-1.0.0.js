@@ -39,7 +39,7 @@
           return stringFormatOfTheGivenNumberInRoman;
         }
       } else {
-        console.log('Please be sure you entered a valid digit.');
+        console.log('Please be sure that you have entered a valid digit.');
       }
    };
  })(jQuery);
